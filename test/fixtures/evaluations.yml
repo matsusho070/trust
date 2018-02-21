@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2018-02-21 14:27:52
+  src_user_id: one
+  dst_user_id: one
+  rate: 1
+
+two:
+  date: 2018-02-21 14:27:52
+  src_user_id: two
+  dst_user_id: two
+  rate: 1
